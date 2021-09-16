@@ -1,0 +1,87 @@
+Protocols for Trawl Catch and Abundance data from the 2020 Gulf of Alaska International Year of the Salmon Expedition
+
+Trawl operations
+
+Trawl sets conducted using the NPAFC 1142 research trawl net with a 3 mm codend mesh size. This
+new net was built to have an opening similar to the RT 80/396 trawl (10 mm codend mesh) net used
+by northwest Pacific high-sea research in Russia and used during the 2019 GoA expedition and the
+net fished by NOAA in coastal surveys in Alaska that is proposed to be used by the US team in the
+2021 expedition (NPAFC Doc. 1922 (Rev. 1)). The net was designed to be fishable from the
+Canadian new research vessel CCGS Sir John Franklin. The net was constructed with support of the
+IYS research plan for 2021 surveys. To keep the effective trawl opening near the surface, two large
+floats (72 cm in diameter each) were attached to the headrope with two pairs of smaller floats
+(39 cm in diameter each) attached to the wing tips. To increase the vertical opening of the net, two
+chains (272 kg) were attached to the footrope. Thyboron type 15 trawl doors (4.5 m2 and 1135 kg
+each) were attached to the trawl via 46 m door legs rigged in a configuration to sustain horizontal
+opening. Declared opening of this net (according to supplementary documentation) was 45.7 m in
+horizontal and 30 m in vertical directions. The actual vertical opening (measured using 2 RBR
+sensors attached to both head- and footrope) was typically 18–22 m during surface sets and 8–10 m
+during deep sets (at 30 m headrope depth). 
+
+Where repeated high salmon catches were encountered during a surface set, a deeper set was also
+carried out to increase the number of samples. Three deep sets were performed over the course of
+the expedition.
+
+Throughout the survey, the average calculated horizontal opening range was 42–45 m for surface
+sets and 50–51 m for deep sets; average trawling speed was 4.9–5.2 knots; warp length averaged
+245 m for surface trawls and 391 m for deeper sets; averaged swept area using estimated horizontal
+opening was 0.40 km2 for surface trawls and 0.43 km2 for deeper trawls; trawl mouth opening
+averaged 650 m2 for surface trawls and 394 m2 for deeper trawls; filtered volume averaged 6.1*10-3
+km3 for surface trawls and 3.5*10-3 km3 for deeper trawls.
+For comparison, during 2019 expedition averaged technical trawl parameters were the following:
+horizontal opening - 38.4 m, vertical opening - 32.2 m, speed - 4.4 knots, warps - 250 m, swept area - 0.31 km2, trawl mouth opening - 969 m2 and filtered volume - 7.8*10-3 km3.Technical parameters
+of each trawl are represented in table 4.
+
+-----------------
+Catch processing
+
+All salmon and bycatch species were processed immediately following each trawl. All salmon were
+identified to species, fitted with a floy tag on the caudal peduncle (to identify the specimen) and
+measured for fork length, standard length, and weight. Numerous samples were taken from each
+salmon: fin clips for genetic analysis; scales for ageing and growth rate; otoliths for ageing and early
+marine growth, checking for hatcheries marks and tags; muscle samples for energy density, lipids,
+stable isotopes, fatty acid analyses and stomachs for diet analysis. A subsample of the salmon catch
+(up to 15 specimens per species per trawl) was processed for fish health diagnostics. Non-salmon
+nekton species were identified, enumerated, measured, and a subsample was frozen or preserved in
+formaldehyde for subsequent laboratory analyses in Canada and Russia. Micronekton (mesopelagic
+fish, squid) and jellyfishes were identified to the species level, counted, measured, weighed, and a
+subset preserved for subsequent lab analyses.
+
+-------------------------------------
+Trawl bycatch and salmon biogeochemistry sampling
+
+Muscle samples for stable isotope and fatty acid analyses were collected from up to 100 individuals
+per salmon species per set. Stable isotope samples were preserved in a -20°C freezer and the fatty
+acid samples were preserved on dry ice.
+Stable isotope and fatty acid samples were also collected from most bycatch species from most
+trawls. If individuals were small (< 20 cm), up to 10 individuals from each size class from a trawl
+were collected for isotopes and up to five individuals from each size class were collected for fatty
+acid analysis. If individuals were large (= 20 cm), a piece of the muscle was taken for isotope and
+/or fatty acid analyses. Isotope samples were preserved in the -20 °C freezer and fatty acid samples
+were preserved on dry ice.
+Samples of non-gelatinous micronekton were collected for all common species for traits analysis
+(morphological traits - body shape and size, categorized behavioral traits – diel vertical migration).
+Up to 10 individuals per species were preserved in the -20 °C freezer. 
+
+----------------------------
+Salmon and nekton abundance estimations
+
+Total salmon and nekton abundance and biomass were calculated using the formula:
+N (B) = Q *S / 1,000,000
+where N, B is the number and biomass of species (thousand tons and million fish); Q is the average
+distribution density of species within the survey area (individuals or kg per km2
+); and S is the survey
+area (km2
+). The distribution density index Q is calculated using number and weight of each
+individual species in the given catch (n or b), the trawl swept area (s), and the catchability
+coefficient of the species (k) according to the formula: q = n (b) / k * s. For more details on the
+applied method see two technical reports (Volvenko 1999, Volvenko 2000). Catchability
+coefficients for major nekton species are presented in a series of Atlases issued by the TINROCenter (Shuntov, Bocharov et al. 2003) and will need to be adapted to the survey on the Pacific
+Legacy. Given the 3 mm mesh size in the NPAFC 1142 trawl codend, catchability coefficients for
+individuals less than 2 cm in length (e.g. squid juveniles, myctophids) were restricted to 0.1 (Table
+3). Trawl catchability coefficient for maturing and immature Pacific salmon aged n.1+ or older was
+0.3, and most juvenile salmon in their first marine year had a catchability coefficient of 0.4.
+However, quickly growing Pink salmon and Coho salmon spending one year at sea had a trawl
+catchability coefficient equal to 0.3 (Table 1). 
+
+
