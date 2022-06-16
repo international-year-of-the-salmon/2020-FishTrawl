@@ -2,6 +2,8 @@
 
 🙋 Welcome to the repository for the fish trawl data collected in the Gulf of Alaska in 2020 as part of the International Year of the Salmon High Seas Expedition.
 
+🤖 See the metadata record for this dataset here: 10.21966/4J6T-GB64
+
 🐟 The repository is structured as follows: 
   * `original_data` contains processed data files that have been sent to the IYS Data Scientists that have not been formatted to the IYS Data Template.
   * `standardized_data` contains the standardized data tables as they will be published to OBIS or ERDDAP. 
@@ -12,4 +14,4 @@
 
 ## How to Contribute 🚢 
 
-To contribute to the code, please fork this repository, make your suggested modifications and generate a pull request (PR). For any issues related to the code, please create an issue in this repository. Finally, for any questions related to the data, please contact the data provider as listed in the [metadata record](https://iys.hakai.org/dataset/ca-cioos_8df09011-488d-4ce4-91d8-9ade189c9c43) in the IYS Data Catalogue.
+To contribute to the code, please fork this repository, make your suggested modifications and generate a pull request (PR). For any issues related to the code, please create an issue in this repository. Finally, for any questions related to the data, please contact the data provider as listed in the [metadata record](10.21966/4J6T-GB64) in the IYS Data Catalogue.
