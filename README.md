@@ -4,6 +4,10 @@
 
 🤖 See the metadata record for this dataset here: 10.21966/4J6T-GB64
 
+🚢 Recommended citation for this record:
+
+Neville, C., Somov, A., Esenkulova, S., LaForge, R., Kanzeparova, A., & Deeg, C. (2023). Trawl Catch and Species Abundance data from the 2020 Gulf of Alaska International Year of the Salmon Expedition [Data set]. North Pacific Anadromous Fish Commission. https://doi.org/10.21966/4J6T-GB64
+
 🐟 The repository is structured as follows: 
   * `original_data` contains processed data files that have been sent to the IYS Data Scientists that have not been formatted to the IYS Data Template.
   * `standardized_data` contains the standardized data tables as they will be published to OBIS or ERDDAP. 
@@ -12,6 +16,6 @@
 
 🦐 Check out our about page for more info! https://international-year-of-the-salmon.github.io/about/index.html
 
-## How to Contribute 🚢 
+## How to Contribute  
 
 To contribute to the code, please fork this repository, make your suggested modifications and generate a pull request (PR). For any issues related to the code, please create an issue in this repository. Finally, for any questions related to the data, please contact the data provider as listed in the [metadata record](10.21966/4J6T-GB64) in the IYS Data Catalogue.
